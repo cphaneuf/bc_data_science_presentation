@@ -1,0 +1,212 @@
+Subject_num,Testing_location,Experimenter,Date,DOB,Age,Other_languages,List,Total_correct,Arithmetic_correct,Letters_correct,Addition_correct,Subtraction_correct,Capital_correct,Lowercase_correct,Rejected,Video_check
+9,Acton Discovery Museum,Meredith,12/1/12,10/17/06,73,,1,4,2,2,1,1,1,1,0,NA
+4,Acton Discovery Museum,Meredith,12/2/12,11/24/07,60,,1,2,0,2,0,0,1,1,0,NA
+3,Acton Discovery Museum,Meredith,12/3/12,11/23/07,60,,3,4,2,2,1,1,1,1,0,NA
+2,Acton Discovery Museum,Christina,12/4/12,3/1/06,81,,2,4,2,2,1,1,1,1,0,NA
+5,Acton Discovery Museum,Christina,12/5/12,4/28/09,43,,2,3,1,2,1,0,1,1,0,NA
+1,Artesani Park,Christina,12/6/12,5/3/12,7,,1,4,2,2,1,1,1,1,0,NA
+6,Artesani Park,Christina,12/7/12,6/10/04,101,,4,4,2,2,1,1,1,1,0,NA
+8,Artesani Park,Christina,12/8/12,10/17/11,13,,4,1,1,0,0,1,0,0,0,NA
+18,Boston Commons,Christina,12/7/13,1/4/07,83,Mandarin,3,4,2,2,1,1,1,1,0,NA
+13,Boston Commons,Christina,12/8/13,1/31/07,82,,1,0,0,0,0,0,0,0,0,NA
+13,Boston Commons,Meredith,12/9/13,1/31/08,70,Chinese,1,0,0,0,0,0,0,0,1,NA
+14,Boston Commons,Meredith,12/10/13,2/15/09,57,Japanese,4,0,0,0,0,0,0,0,0,NA
+16,Boston Commons,Meredith,12/11/13,5/8/07,79,Thai,1,3,2,1,1,1,0,1,1,NA
+10,Boston Commons,Meredith,12/12/13,2/8/12,22,,3,2,0,2,0,0,1,1,0,NA
+11,Boston Commons,Meredith,12/13/13,3/4/08,69,,4,3,1,2,0,1,1,1,0,NA
+12,Boston Commons,Alex,12/14/13,4/18/08,67,Urdu,2,3,2,1,1,1,1,0,0,NA
+17,Boston Commons,Alex,12/15/13,8/3/12,16,,2,3,1,2,1,0,1,1,0,NA
+15,Acton Discovery Museum,Alex,12/16/13,8/9/08,64,,3,0,0,0,0,0,0,0,0,NA
+215,Acton Discovery Museum,Meredith,1/21/17,1/23/12,59,,4,2,1,1,1,0,1,0,0,NR
+213,Acton Discovery Museum,Meredith,1/21/17,2/1/12,59,,4,4,2,2,1,1,1,1,0,LS
+209,Acton Discovery Museum,Derek,1/21/17,3/8/12,58,Thai,1,3,1,2,1,0,1,1,1,NA
+204,Acton Discovery Museum,Derek,1/21/17,4/5/14,33,,2,3,1,2,1,0,1,1,0,KO
+203,Artesani Park,Preston,1/21/17,7/8/15,18,,3,4,2,2,1,1,1,1,0,KO
+211,Artesani Park,Preston,1/21/17,7/4/16,6,,2,4,2,2,1,1,1,1,0,LS
+214,Artesani Park,Meredith,1/21/17,8/20/12,53,,3,3,1,2,1,0,1,1,0,LS
+210,Acton Discovery Museum,Meredith,1/21/17,11/30/12,49,Portugese,3,2,1,1,0,1,0,1,0,NR
+212,Acton Discovery Museum,Meredith,1/21/17,3/9/13,46,French,2,4,2,2,1,1,1,1,0,KO
+207,Acton Discovery Museum,Meredith,1/21/17,4/17/13,45,Italian,1,0,0,0,0,0,0,0,1,NA
+208,Acton Discovery Museum,Preston,1/21/17,4/17/14,33,Spanish,4,2,1,1,0,1,0,1,0,NA
+202,Acton Discovery Museum,Preston,1/21/17,7/8/15,18,,2,0,0,0,0,0,0,0,1,NA
+205,Artesani Park,Preston,1/21/17,6/27/13,42,,3,0,0,0,0,0,0,0,1,NA
+201,Artesani Park,Mark,1/21/17,8/1/12,53,,1,3,1,2,1,0,1,1,0,NA
+206,Artesani Park,Mark,1/21/17,11/25/13,37,Urdu,4,0,0,0,0,0,0,0,1,NA
+206,Boston Commons,Mark,1/21/17,11/25/13,37,Urdu,4,0,0,0,0,0,0,0,1,NA
+230,Boston Commons,Meredith,1/29/17,2/4/11,71,,3,3,1,2,1,0,1,1,0,NA
+229,Boston Commons,Meredith,1/29/17,4/15/12,57,,2,2,1,1,1,0,1,0,0,KO
+218,Boston Commons,Derek,1/29/17,11/5/10,74,,3,3,1,2,1,0,1,1,0,NA
+228,Boston Commons,Derek,1/29/17,11/28/09,86,,1,2,1,1,0,1,1,0,0,CG
+233,Boston Commons,Preston,1/29/17,12/13/08,97,,2,0,0,0,0,0,0,0,0,KO
+223,Boston Commons,Preston,1/29/17,12/22/07,109,,4,3,1,2,1,0,1,1,0,CG
+216,Boston Commons,Meredith,1/29/17,2/16/12,59,,1,4,2,2,1,1,1,1,0,CG
+225,Boston Commons,Lexi,1/29/17,3/15/12,58,,2,4,2,2,1,1,1,1,0,CG
+226,Acton Discovery Museum,Lexi,1/29/17,4/5/05,141,,3,3,1,2,0,1,1,1,0,CG
+231,Acton Discovery Museum,Lexi,1/29/17,8/12/13,41,,4,4,2,2,1,1,1,1,1,NA
+220,Acton Discovery Museum,George,1/29/17,8/20/12,53,,1,2,1,1,1,0,1,0,0,CG
+234,Acton Discovery Museum,George,1/29/17,1/29/13,48,,3,2,0,2,0,0,1,1,1,KO
+222,Acton Discovery Museum,Izzy,1/29/17,3/9/12,58,,3,4,2,2,1,1,1,1,0,CG
+227,Boston Commons,Izzy,1/29/17,6/9/13,43,,4,3,1,2,0,1,1,1,0,CG
+221,Boston Commons,Preston,1/29/17,7/4/13,42,,2,2,1,1,0,1,1,0,0,CG
+224,Boston Commons,Meredith,1/29/17,8/6/14,29,,1,0,0,0,0,0,0,0,0,NA
+217,Boston Commons,Lexi,1/29/17,10/28/13,39,,2,4,2,2,1,1,1,1,0,NA
+219,Boston Commons,Lexi,1/29/17,11/22/13,38,Portugese,4,2,1,1,1,0,1,0,1,NA
+232,Boston Commons,Lexi,1/29/17,1/23/14,36,French,1,0,0,0,0,0,0,0,0,NA
+235,Boston Commons,George,1/30/17,11/7/11,62,Italian,4,3,1,2,1,0,1,1,0,NA
+256,Boston Commons,George,2/4/17,1/3/11,73,Spanish,4,3,1,2,1,0,1,1,0,NA
+243,Boston Commons,Izzy,2/4/17,2/14/15,23,,3,0,0,0,0,0,0,0,0,NA
+236,Acton Discovery Museum,Izzy,2/4/17,3/11/11,70,,1,3,1,2,1,0,1,1,0,NA
+238,Acton Discovery Museum,Preston,2/4/17,3/11/11,70,,3,1,0,1,0,0,1,0,0,NR
+251,Acton Discovery Museum,Meredith,2/4/17,7/31/11,66,,3,4,2,2,1,1,1,1,0,NA
+254,Acton Discovery Museum,Lexi,2/4/17,9/10/15,16,,2,3,1,2,1,0,1,1,0,NR
+247,Acton Discovery Museum,Lexi,2/4/17,11/2/11,63,,3,4,2,2,1,1,1,1,0,CG
+240,Artesani Park,Lexi,2/4/17,12/16/11,61,,1,3,1,2,1,0,1,1,0,NR
+241,Artesani Park,George,2/4/17,12/16/11,61,,1,3,1,2,1,0,1,1,0,NR
+242,Artesani Park,George,2/4/17,2/9/12,59,,2,4,2,2,1,1,1,1,0,NR
+252,Artesani Park,Izzy,2/4/17,3/28/12,58,,4,3,1,2,1,0,1,1,0,NR
+245,Artesani Park,Izzy,2/4/17,12/30/12,49,,1,3,1,2,1,0,1,1,0,CG
+237,Artesani Park,Miranda,2/4/17,4/4/13,46,,2,2,2,0,1,1,0,0,0,NR
+249,Artesani Park,Miranda,2/4/17,4/1/13,46,,1,2,1,1,0,1,0,1,0,CG
+253,Artesani Park,Miranda,2/4/17,3/12/13,46,,1,4,2,2,1,1,1,1,0,CG
+244,Artesani Park,Miranda,2/4/17,6/5/13,43,,4,4,2,2,1,1,1,1,0,CG
+246,Artesani Park,Miranda,2/4/17,6/20/13,43,,2,3,1,2,1,0,1,1,0,NA
+250,Artesani Park,Miranda,2/4/17,7/4/13,43,,2,1,0,1,0,0,0,1,1,NA
+239,Artesani Park,Miranda,2/4/17,8/29/13,41,,4,3,1,2,1,1,1,1,1,NA
+248,Artesani Park,Miranda,2/4/17,8/22/13,41,,4,0,0,0,0,0,0,0,0,NA
+255,Artesani Park,Miranda,2/4/17,8/26/13,41,,3,0,0,0,0,0,0,0,1,NA
+264,Artesani Park,Miranda,2/18/17,11/27/11,62,,4,4,2,2,1,1,1,1,0,NA
+262,Artesani Park,Miranda,2/18/17,10/11/12,52,,2,4,2,2,1,1,1,1,0,NA
+267,Artesani Park,Miranda,2/18/17,10/5/12,52,,3,4,2,2,1,1,1,1,0,NA
+266,Artesani Park,Richard,2/18/17,10/27/12,51,,2,1,1,0,0,1,0,0,0,CG
+257,Acton Discovery Museum,Richard,2/18/17,12/6/12,50,,1,3,1,2,1,0,1,1,0,CG
+265,Acton Discovery Museum,Derek,2/18/17,12/12/12,50,Portugese,1,0,0,0,0,0,0,0,0,CG
+268,Acton Discovery Museum,Richard,2/18/17,11/25/12,50,French,4,0,0,0,0,0,0,0,0,CG
+260,Acton Discovery Museum,Richard,2/18/17,1/6/13,49,Italian,4,4,2,2,1,1,1,1,1,NA
+259,Acton Discovery Museum,Owen,2/18/17,4/26/13,45,Spanish,3,0,0,0,0,0,0,0,0,CG
+263,Artesani Park,Owen,2/18/17,4/26/13,45,,3,4,2,2,1,1,1,1,1,NA
+261,Artesani Park,Richard,2/18/17,11/10/13,39,,1,0,0,0,0,0,0,0,0,CG
+258,Artesani Park,Richard,2/18/17,1/8/14,37,,2,0,0,0,0,0,0,0,0,NA
+282,Artesani Park,Derek,4/9/17,5/14/10,82,,2,4,2,2,1,1,1,1,1,NA
+272,Artesani Park,Richard,4/9/17,10/3/10,78,,4,4,2,2,1,1,1,1,1,NA
+290,Acton Discovery Museum,Richard,4/9/17,6/30/11,69,,1,4,2,2,1,1,1,1,1,NA
+269,Acton Discovery Museum,Owen,4/9/17,4/17/13,47,,1,0,0,0,0,0,0,0,0,NA
+275,Acton Discovery Museum,Owen,4/9/17,5/9/13,47,,3,4,2,2,1,1,1,1,1,NA
+271,Acton Discovery Museum,Richard,4/9/17,5/22/13,46,,3,4,2,2,1,1,1,1,0,NA
+309,Acton Discovery Museum,Richard,4/22/17,,1407,,4,4,2,2,1,1,1,1,1,NA
+316,Artesani Park,Derek,4/22/17,5/24/11,70,,2,2,0,2,0,0,1,1,0,CG
+299,Artesani Park,Richard,4/22/17,5/21/12,59,,2,3,1,2,1,0,1,1,0,NA
+312,Artesani Park,Richard,4/22/17,7/29/12,56,,1,4,2,2,1,1,1,1,0,CG
+314,Artesani Park,Owen,4/22/17,9/30/12,54,,4,4,2,2,1,1,1,1,0,CG
+313,Artesani Park,Owen,4/22/17,2/22/13,50,,4,2,0,2,0,0,1,1,0,CG
+270,Acton Discovery Museum,Amelia,4/22/17,4/5/13,48,,2,4,2,2,1,1,1,1,0,CG
+310,Acton Discovery Museum,Amelia,4/22/17,5/31/13,46,,4,4,2,2,1,1,1,1,1,CG
+311,Acton Discovery Museum,Amelia,4/22/17,11/13/13,41,,4,3,1,2,0,1,1,1,0,CG
+300,Acton Discovery Museum,Amelia,4/22/17,12/15/13,40,,1,2,0,2,0,0,1,1,0,NA
+292,Acton Discovery Museum,Addison,4/26/17,7/21/10,81,,2,4,2,2,1,1,1,1,0,NA
+401,Artesani Park,Addison,4/26/17,2/11/11,74,,3,3,1,2,1,0,1,1,0,NA
+294,Artesani Park,Addison,4/26/17,5/7/11,71,Malayalam,3,3,2,1,1,1,,1,1,NA
+293,Artesani Park,Addison,4/26/17,7/8/11,69,,2,4,2,2,1,1,1,1,0,NA
+296,Artesani Park,Addison,4/26/17,9/19/11,67,Hindi,4,3,1,2,1,0,1,1,0,NA
+295,Artesani Park,Addison,4/26/17,9/9/11,67,Givjonati,3,4,2,2,1,1,1,1,1,NA
+288,Acton Discovery Museum,Owen,4/26/17,10/5/11,66,Malayalam,4,4,2,2,1,1,1,1,1,NA
+286,Acton Discovery Museum,Owen,4/26/17,11/2/11,65,Tamil,2,3,1,2,0,1,1,1,0,NR
+298,Acton Discovery Museum,Owen,4/26/17,11/19/11,65,Marath,4,4,2,2,1,1,1,1,1,NA
+273,Acton Discovery Museum,April,4/26/17,11/4/12,53,Chinese,1,4,2,2,1,1,1,1,1,NA
+283,Acton Discovery Museum,April,4/26/17,11/21/12,53,Hindi,3,4,2,2,1,1,1,1,1,NA
+287,Artesani Park,April,4/26/17,11/19/12,53,Malayalam,3,4,2,2,1,1,1,1,1,NA
+281,Artesani Park,April,4/30/17,5/6/11,71,,1,3,1,2,1,0,1,1,0,NR
+297,Artesani Park,Jackson,4/30/17,9/15/11,67,,4,4,2,2,1,1,1,1,0,NR
+279,Artesani Park,Jackson,4/30/17,12/11/12,52,,3,2,1,1,1,0,1,0,0,NR
+303,Artesani Park,Owen,4/30/17,7/19/13,45,,3,2,0,2,0,0,1,1,0,NR
+302,Acton Discovery Museum,Owen,4/30/17,10/25/13,42,,2,4,2,2,1,1,1,1,0,NR
+301,Acton Discovery Museum,Owen,4/30/17,11/17/13,41,,2,4,2,2,1,1,1,1,1,NA
+406,Acton Discovery Museum,April,5/3/17,7/11/11,69,,1,3,1,2,1,0,1,1,0,NA
+315,Acton Discovery Museum,April,5/3/17,7/11/11,69,,1,2,1,1,1,0,0,1,0,JV
+276,Acton Discovery Museum,April,5/3/17,7/19/11,69,,4,4,2,2,1,1,1,1,0,JV
+306,Artesani Park,April,5/3/17,11/2/11,66,,3,3,1,2,1,0,1,1,0,JV
+308,Artesani Park,Jackson,5/3/17,12/17/11,64,,4,3,1,2,1,0,1,1,0,JV
+305,Artesani Park,Jackson,5/3/17,12/6/11,64,,3,2,1,1,1,0,0,1,0,JV
+323,Artesani Park,Owen,5/3/17,4/2/12,61,,1,2,1,1,1,,1,0,0,JV
+324,Artesani Park,Owen,5/3/17,4/21/12,60,Vietinamese,2,2,0,2,0,0,1,1,1,NA
+280,Boston Commons,Owen,5/3/17,5/8/12,59,,4,3,1,2,1,0,1,1,0,NA
+322,Boston Commons,April,5/3/17,6/19/12,58,,2,3,1,2,1,0,1,1,0,NA
+278,Boston Commons,April,5/3/17,6/20/12,58,,2,4,2,2,1,1,1,1,0,NA
+321,Boston Commons,April,5/3/17,7/2/12,58,,1,3,1,2,1,0,1,1,0,NA
+274,Boston Commons,April,5/3/17,8/28/12,56,,2,2,1,1,1,0,1,0,0,NA
+329,Boston Commons,Jackson,5/3/17,11/23/12,53,Portugese,4,3,2,1,1,1,1,0,0,NA
+304,Boston Commons,Jackson,5/3/17,1/24/13,51,French,3,3,1,2,1,0,1,1,0,NA
+289,Boston Commons,Matthew,5/3/17,3/10/13,49,Italian,3,0,0,0,,,,,1,NA
+277,Boston Commons,Matthew,5/3/17,3/4/13,49,Spanish,1,2,1,1,1,0,1,0,0,JV
+307,Boston Commons,Matthew,5/3/17,5/8/13,47,,3,3,1,2,1,0,1,1,0,JV
+341,Boston Commons,Maggie,5/25/17,11/14/11,66,,3,3,1,2,0,1,1,1,0,NA
+330,Boston Commons,Maggie,5/25/17,12/17/12,53,Spanish,3,1,0,1,0,0,0,1,0,NA
+285,Boston Commons,Jackson,5/25/17,4/11/13,49,,2,4,2,2,1,1,1,1,0,NA
+291,Boston Commons,Jackson,5/25/17,5/31/14,35,,3,0,0,0,,,,,1,NA
+317,Boston Commons,Matthew,6/2/17,9/9/11,68,Spanish,2,3,1,2,1,0,1,1,1,NA
+320,Boston Commons,Matthew,6/2/17,1/3/12,64,,2,3,1,2,1,0,1,1,0,MR
+318,Boston Commons,Matthew,6/2/17,8/13/13,45,,3,2,1,1,1,0,0,1,0,NA
+326,Boston Commons,Maggie,6/2/17,1/11/14,40,,4,0,0,0,0,0,0,0,1,NA
+325,Boston Commons,Maggie,6/2/17,2/25/14,39,,3,0,0,0,0,0,0,0,0,NA
+319,Boston Commons,Jackson,6/3/17,11/8/12,54,,4,1,0,1,0,0,0,1,0,NA
+284,Boston Commons,Jackson,6/3/17,10/7/13,43,,4,2,1,1,0,1,0,1,0,NA
+355,Boston Commons,Matthew,6/9/17,10/6/13,44,Korean,2,1,0,1,0,0,1,0,0,NA
+361,Boston Commons,Matthew,6/9/17,1/8/14,41,Spanish,4,0,0,0,0,0,,0,1,NA
+357,Boston Commons,Matthew,6/9/17,2/20/14,39,,3,1,1,0,1,0,0,0,0,NA
+356,Boston Commons,Maggie,6/10/17,7/6/11,71,,4,2,1,1,1,0,1,0,0,JV
+359,Boston Commons,Maggie,6/10/17,1/1/12,65,,2,3,1,2,1,0,1,1,0,JV
+360,Boston Commons,Jackson,6/10/17,6/11/13,47,,4,0,0,0,0,0,0,0,1,JV
+462,Acton Discovery Museum,Jackson,6/13/17,7/2/11,71,,4,4,2,2,1,1,1,1,0,NA
+461,Acton Discovery Museum,Matthew,6/13/17,11/16/13,42,Spanish,4,0,0,0,,0,0,0,1,NA
+790,Acton Discovery Museum,Matthew,9/9/17,12/13/11,68,,2,3,1,2,1,0,1,1,0,NA
+784,Acton Discovery Museum,Matthew,9/9/17,4/7/12,65,,1,4,2,2,1,1,1,1,0,NA
+785,Acton Discovery Museum,Maggie,9/9/17,6/14/12,62,,1,3,1,2,1,0,1,1,0,NA
+791,Artesani Park,Maggie,9/9/17,6/14/12,62,,2,4,2,2,1,1,1,1,0,NA
+788,Artesani Park,Katherine,10/6/17,1/30/12,68,,3,3,1,2,0,1,1,1,0,NA
+789,Artesani Park,Katherine,10/6/17,4/1/12,66,Spanish,4,4,2,2,1,1,1,1,0,NA
+787,Boston Commons,Katherine,10/6/17,1/14/14,44,,4,4,2,2,1,1,1,1,0,NA
+783,Boston Commons,Katherine,10/6/17,2/17/14,43,,1,3,1,2,1,0,1,1,0,NA
+786,Boston Commons,Katherine,11/4/17,8/16/14,38,,4,3,2,1,1,1,1,0,0,NA
+510,Boston Commons,Katherine,2/5/18,4/17/14,45,,1,4,2,2,1,1,1,1,0,NA
+474,Boston Commons,Ben,2/11/18,5/10/11,81,,1,3,1,2,1,0,1,1,0,NA
+470,Boston Commons,Ben,2/11/18,5/12/11,80,Mandarin,1,2,1,1,1,0,,1,1,NA
+478,Boston Commons,Ben,2/11/18,8/7/11,78,,1,3,1,2,1,0,1,1,0,NA
+482,Boston Commons,Ben,2/11/18,8/23/11,77,Russian,1,3,1,2,1,0,1,1,1,NA
+511,Boston Commons,Ben,2/18/18,5/1/11,81,,1,3,1,2,1,0,1,1,0,HG
+512,Boston Children's Museum,Ben,2/18/18,5/16/11,81,,1,2,1,1,1,0,0,1,0,HG
+486,Boston Children's Museum,Ben,2/25/18,9/9/11,77,,1,4,2,2,1,1,1,1,0,HG
+490,Boston Children's Museum,Stephanie,3/18/18,1/31/12,73,,1,3,1,2,1,0,1,1,0,ZB
+494,Boston Children's Museum,Stephanie,3/25/18,7/12/11,80,,1,4,2,2,1,1,1,1,0,NR
+498,Boston Children's Museum,Stephanie,3/25/18,4/25/11,83,,1,3,1,2,1,0,1,1,0,NR
+502,Boston Children's Museum,Stephanie,4/6/18,11/10/11,76,,1,4,2,2,1,1,1,1,0,HG
+506,Acton Discovery Museum,Stephanie,4/7/18,2/27/12,73,,1,4,2,2,1,1,1,1,0,HG
+489,Boston Children's Museum,Stephanie,4/15/18,7/6/11,81,Japanese,4,3,1,2,1,0,1,1,0,HG
+479,Boston Children's Museum,,4/15/18,3/20/12,72,Chinese,2,0,0,0,,,,0,1,HG
+483,Boston Children's Museum,,4/22/18,1/4/12,75,Chinese,2,2,0,2,0,0,1,1,1,NA
+513,Boston Children's Museum,,4/22/18,12/30/11,75,,2,4,2,2,1,1,1,1,0,NA
+487,Acton Discovery Museum,,4/29/18,10/7/11,78,,2,4,2,2,1,1,1,1,0,CN
+499,Acton Discovery Museum,,4/29/18,6/18/11,82,,2,3,1,2,1,0,1,1,0,CN
+495,Acton Discovery Museum,,4/29/18,6/18/11,82,,2,3,1,2,1,0,1,1,0,CN
+503,Acton Discovery Museum,,4/29/18,1/8/12,75,Chinese,2,3,1,2,1,,1,1,1,CN
+491,Acton Discovery Museum,,4/29/18,9/23/11,79,,2,3,1,2,1,0,1,1,0,NA
+515,Acton Discovery Museum,,4/29/18,4/15/12,72,,4,4,2,2,1,1,1,1,0,NA
+472,Acton Discovery Museum,,4/29/18,11/16/11,77,,3,2,1,1,1,0,1,0,0,NA
+476,Acton Discovery Museum,,4/29/18,7/1/11,81,,3,2,1,1,1,0,0,1,0,NA
+516,Boston Children's Museum,,5/6/18,7/6/11,82,,2,4,2,2,1,1,1,1,0,NA
+517,Acton Discovery Museum,,5/13/18,11/21/11,77,,2,3,1,2,1,0,1,1,0,NA
+471,Acton Discovery Museum,,5/13/18,10/11/11,79,,2,4,2,2,1,1,1,1,0,NA
+496,Boston Children's Museum,,5/20/18,1/1/12,76,,3,3,2,1,1,1,1,0,0,NA
+500,Boston Children's Museum,,5/20/18,7/2/11,82,,3,4,2,2,1,1,1,1,0,NA
+504,Boston Children's Museum,,5/20/18,2/4/12,75,,3,4,2,2,1,1,1,1,0,LS
+508,Acton Discovery Museum,,5/19/18,9/25/11,79,,3,4,2,2,1,1,1,1,0,NA
+484,Acton Discovery Museum,,5/19/18,4/4/12,73,,3,4,2,2,1,1,1,1,0,NA
+509,Acton Discovery Museum,,5/19/18,11/6/11,78,,4,4,2,2,1,1,1,1,0,NA
+480,Acton Discovery Museum,,5/19/18,2/28/12,74,,3,3,1,2,1,0,1,1,0,LS
+488,Acton Discovery Museum,,5/19/18,3/15/12,74,,3,4,2,2,1,1,1,1,0,LS
+492,Acton Discovery Museum,,5/19/18,8/25/11,80,,3,3,2,1,1,1,1,0,0,LS
+477,Boston Children's Museum,,5/27/18,10/23/11,79,,4,3,1,2,1,0,1,1,0,NA
+475,Acton Discovery Museum,,6/2/18,7/9/11,82,Portugese,2,3,1,2,1,0,1,1,0,NA
+481,Acton Discovery Museum,,6/2/18,4/28/12,73,French,4,3,1,2,1,0,1,1,0,NA
+485,Boston Commons,Meredith,6/14/18,4/17/12,73,Italian,4,3,1,2,1,0,1,1,0,NA
+497,Boston Commons,Meredith,6/16/18,1/20/12,76,Spanish,4,3,1,2,1,0,1,1,0,NA
+501,Boston Commons,Meredith,6/16/18,11/27/11,78,,4,4,2,2,1,1,1,1,0,NA
+505,Boston Commons,Christina,6/21/18,10/4/11,80,,4,3,1,2,1,0,1,1,0,NA
