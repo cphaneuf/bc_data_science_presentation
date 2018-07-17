@@ -1,6 +1,6 @@
 # Counterbalancing for sample data set
 
-# Before running this script, delete 'Remaining.csv' from your datascienceworkflow directory
+# Before running this script, delete 'Remaining_Master.csv' from your datascienceworkflow directory
 
 # Set working directory
 # HOW TO: open terminal > change to your local datascienceworkflow directory > type 'pwd' > copy and paste output setwd("<here>")
