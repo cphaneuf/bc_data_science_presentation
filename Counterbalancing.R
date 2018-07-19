@@ -23,7 +23,6 @@ data <- data[data$Age < 84 & data$Age >= 36,]
 # Reformat data
 data$Age_Category <- (data$Age)/12
 data$Age_Category <- floor(data$Age_Category)
-data$Age_Category <- as.factor(as.character(data$Age_Category))
 
 # ---CREATE REMAINING_MASTER---
 
