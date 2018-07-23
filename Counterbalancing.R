@@ -1,13 +1,13 @@
 # Counterbalancing for sample data set
 
-# Before running this script, delete 'Remaining_Master.csv' from your datascienceworkflow directory
+# Before running this script, delete 'Remaining_Master.csv' from your bc_data_science_presentation directory
 
 # Set working directory
 # HOW TO: open terminal > change to your local datascienceworkflow directory > type 'pwd' > copy and paste output setwd("<here>")
-setwd("/Users/camillephaneuf/Desktop/L3@BC/datascienceworkflow")
+setwd("/Users/camillephaneuf/Desktop/repos/bc_data_science_presentation")
 
 # Install and load necessary packages
-# HOW TO: uncomment the line below if you do not have dplyr installed (you will get an error if you try running this code without it)
+# HOW TO: uncomment the line below if you do not have dplyr installed (you will get an error if you try running this code without it); dplyr is useful for working with data frames
 # install.packages("dplyr")
 library(dplyr)
 
